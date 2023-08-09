@@ -1,0 +1,1602 @@
+[
+  {
+    "legal_research": [
+      {
+        "id": "38834e00-1a2f-4c41-a9be-d30bbd902b98",
+        "research_topic": "Intellectual Property Rights",
+        "created_at": "2023-08-08T18:20:15.668Z",
+        "updated_at": "2023-08-09T09:43:34.211Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9e29befc-6f71-4aa2-8259-449e169275fc",
+        "research_topic": "Data Privacy Regulations",
+        "created_at": "2023-08-09T03:40:12.243Z",
+        "updated_at": "2023-08-08T18:38:24.161Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "feb3cfed-648f-4fd4-91e5-b81dd086aab2",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-09T01:31:26.038Z",
+        "updated_at": "2023-08-09T07:30:49.173Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "985f7070-5155-4956-9cd5-5cfb471df149",
+        "research_topic": "Environmental Law",
+        "created_at": "2023-08-08T21:22:14.360Z",
+        "updated_at": "2023-08-09T06:09:20.785Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac83ea27-0d91-48b6-8460-72f011c94628",
+        "research_topic": "Employment Law",
+        "created_at": "2023-08-08T14:53:30.679Z",
+        "updated_at": "2023-08-09T04:08:56.545Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "396128ad-926e-43e6-9b80-87576e3d0d5d",
+        "insight_name": "Key Legal Precedents",
+        "created_at": "2023-08-08T21:52:02.461Z",
+        "updated_at": "2023-08-08T14:55:47.011Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2018fb32-e036-4dfa-b8d7-54d7b4d03f74",
+        "insight_name": "Emerging Legal Trends",
+        "created_at": "2023-08-09T01:23:57.912Z",
+        "updated_at": "2023-08-09T04:23:21.928Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4da6332a-fe21-4431-b04a-b2fbb8a1ffd9",
+        "insight_name": "Landmark Court Cases",
+        "created_at": "2023-08-08T16:56:10.364Z",
+        "updated_at": "2023-08-09T08:57:36.995Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d375be13-4fc7-42e7-8fd9-9c08d22a43a0",
+        "insight_name": "Legal Strategies",
+        "created_at": "2023-08-09T02:01:05.061Z",
+        "updated_at": "2023-08-09T06:36:23.490Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4984c093-79ae-451d-8f58-8e3244e40849",
+        "insight_name": "Regulatory Updates",
+        "created_at": "2023-08-08T16:58:15.336Z",
+        "updated_at": "2023-08-08T11:59:19.007Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "aa588af2-7432-4139-a6cc-bd40a913ffbc",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-08T18:37:58.482Z",
+        "updated_at": "2023-08-08T14:04:57.499Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8cec7f35-995d-48a7-80f2-e57b86609432",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-09T09:06:29.437Z",
+        "updated_at": "2023-08-09T10:50:04.568Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de906325-d4ad-4e48-94c6-44df1ceee08b",
+        "document_name": "Employment Agreement",
+        "created_at": "2023-08-08T11:48:54.758Z",
+        "updated_at": "2023-08-09T02:54:30.370Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "11c389ac-dd18-4e42-881e-1af5e3b8341a",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-08T16:34:22.551Z",
+        "updated_at": "2023-08-09T10:19:06.497Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c217814e-bc44-4735-9d31-16344465ca87",
+        "document_name": "Memorandum of Understanding",
+        "created_at": "2023-08-09T04:09:37.633Z",
+        "updated_at": "2023-08-09T03:14:21.373Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "d981101b-350e-4da8-8d75-715eeef54f0d",
+        "email": "Aiyana_Ankunding@yahoo.com",
+        "firstName": "Angela",
+        "lastName": "Kutch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18436379",
+        "tenantId": null
+      },
+      {
+        "reference": "1921f304-033f-4234-bed8-ad7e75b39dae",
+        "email": "Burley.Hammes@gmail.com",
+        "firstName": "Kennedi",
+        "lastName": "Schimmel",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/23.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "b711847e-80a4-4443-b286-5eed469797a3",
+        "email": "Jett_Hansen7@yahoo.com",
+        "firstName": "Jaylin",
+        "lastName": "Dare",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/98358792",
+        "tenantId": null
+      },
+      {
+        "reference": "90fef945-ed4a-4f54-9e7e-dfdc8710f485",
+        "email": "Bernard_Rau@yahoo.com",
+        "firstName": "Abagail",
+        "lastName": "Bechtelar",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1078.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4b65c4a6-c376-4ec9-8970-c18af785d0ec",
+        "email": "Marlen44@gmail.com",
+        "firstName": "Lilly",
+        "lastName": "Kilback",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63871136",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "f02bd814-8d45-4789-8980-9e2f430a904b",
+        "research_topic": "Intellectual Property Rights",
+        "created_at": "2023-08-08T18:17:20.117Z",
+        "updated_at": "2023-08-09T05:45:33.142Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "43546e90-09b3-4489-93a5-4450f9537e0a",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-09T08:55:08.843Z",
+        "updated_at": "2023-08-08T22:56:37.713Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f7e7aa79-3872-4ff2-87ba-af31c46fdf41",
+        "research_topic": "Environmental Regulations",
+        "created_at": "2023-08-09T06:14:38.248Z",
+        "updated_at": "2023-08-08T22:02:32.248Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4d078095-75e7-4302-a10c-2e849e7ec058",
+        "research_topic": "Data Privacy Laws",
+        "created_at": "2023-08-09T05:32:11.606Z",
+        "updated_at": "2023-08-08T23:44:05.167Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "123ba5cc-b1d5-49e5-b559-b1fe1584c2e1",
+        "research_topic": "Employment Law",
+        "created_at": "2023-08-09T07:42:18.375Z",
+        "updated_at": "2023-08-08T22:35:05.235Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "1f3d5219-d541-4ef2-ab05-ff806285f7e4",
+        "insight_name": "Key Legal Precedents",
+        "created_at": "2023-08-09T06:01:41.683Z",
+        "updated_at": "2023-08-09T02:25:08.627Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7e5d18f9-9993-4c60-9f79-5d4f0a5de6f0",
+        "insight_name": "Emerging Legal Trends",
+        "created_at": "2023-08-09T10:10:56.359Z",
+        "updated_at": "2023-08-09T05:15:13.884Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dad1c3ec-e5b4-475a-82a9-640f8725c2e7",
+        "insight_name": "Landmark Court Cases",
+        "created_at": "2023-08-08T17:29:39.678Z",
+        "updated_at": "2023-08-09T03:52:43.647Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a3c525f9-8dc0-4110-9bbd-6a888a3d3dc6",
+        "insight_name": "Legal Strategies for Businesses",
+        "created_at": "2023-08-08T21:02:55.666Z",
+        "updated_at": "2023-08-09T03:26:57.968Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ec92a0c9-0a2a-4738-8116-7ec6658065d4",
+        "insight_name": "Implications of New Legislation",
+        "created_at": "2023-08-08T16:33:37.804Z",
+        "updated_at": "2023-08-09T09:55:58.627Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "19191271-927e-4c9b-975c-9817e0df7711",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-08T18:46:24.767Z",
+        "updated_at": "2023-08-08T14:12:19.728Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "243b1afa-eeb0-4c76-bd09-bb297ddd33ba",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-08T21:15:33.643Z",
+        "updated_at": "2023-08-08T14:32:19.897Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b40292e5-9dc4-409a-8d13-cd33ceae873a",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-08T19:49:14.704Z",
+        "updated_at": "2023-08-08T18:53:59.979Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f63bff8-2580-4346-be79-6e455fda833a",
+        "document_name": "Employment Contract",
+        "created_at": "2023-08-08T16:04:59.978Z",
+        "updated_at": "2023-08-08T14:44:00.402Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c517ec4-7320-45fb-b623-e90e3980c4e9",
+        "document_name": "Memorandum of Understanding",
+        "created_at": "2023-08-08T13:24:15.708Z",
+        "updated_at": "2023-08-08T23:46:46.655Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "1eda7113-f71f-4a9d-9547-c442ce53c828",
+        "email": "Thea.Reinger43@gmail.com",
+        "firstName": "Adolf",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/287.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e0ee1b93-dcbf-437b-90e3-20537693a4be",
+        "email": "Milton.Kozey@yahoo.com",
+        "firstName": "Shakira",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/208.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9506e847-507f-4ddc-99b0-f29b9bdb5d02",
+        "email": "Demetris_Mante@gmail.com",
+        "firstName": "Danielle",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1023.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "29cdc3d6-caa6-419a-b8ef-8f3598efc23e",
+        "email": "Kasandra51@hotmail.com",
+        "firstName": "Ozella",
+        "lastName": "Hermiston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11505109",
+        "tenantId": null
+      },
+      {
+        "reference": "3a3928c6-9244-4550-b560-208d0acd25fa",
+        "email": "Richmond_Hermiston17@gmail.com",
+        "firstName": "Daphne",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20056795",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "4569b61b-07f6-4525-9d1e-673ae4afbe25",
+        "research_topic": "Intellectual Property Rights",
+        "created_at": "2023-08-08T11:13:15.516Z",
+        "updated_at": "2023-08-08T23:06:05.788Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ee361148-56c5-4903-8283-da3d205afdc0",
+        "research_topic": "Data Privacy Regulations",
+        "created_at": "2023-08-09T10:17:01.142Z",
+        "updated_at": "2023-08-09T07:33:17.542Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f9381219-30cb-4cdc-a871-194026573d6a",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-08T19:08:07.405Z",
+        "updated_at": "2023-08-08T14:10:37.854Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85b35d75-9d62-47a6-87e0-4e99f2f6cfc0",
+        "research_topic": "Environmental Law",
+        "created_at": "2023-08-08T19:02:07.510Z",
+        "updated_at": "2023-08-09T01:58:16.289Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8a1e4e76-1e01-40b2-8d92-7fc1a83fcfa7",
+        "research_topic": "Employment Law",
+        "created_at": "2023-08-08T13:08:18.826Z",
+        "updated_at": "2023-08-09T06:11:07.559Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "ec27bca7-8882-491d-9809-49a99bd93d75",
+        "insight_name": "Key Legal Precedents",
+        "created_at": "2023-08-09T04:37:04.296Z",
+        "updated_at": "2023-08-08T23:38:49.968Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a7e577be-bebd-48fa-b577-571d68e4479d",
+        "insight_name": "Emerging Legal Trends",
+        "created_at": "2023-08-08T13:18:03.660Z",
+        "updated_at": "2023-08-09T02:05:47.146Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b5986a5c-2258-4034-8dd4-b0d8065789d4",
+        "insight_name": "Landmark Court Cases",
+        "created_at": "2023-08-08T15:01:49.717Z",
+        "updated_at": "2023-08-08T23:47:42.414Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cb2178ec-8e3e-43fe-a118-a89d2a0a446f",
+        "insight_name": "Legal Strategies for Businesses",
+        "created_at": "2023-08-09T08:29:55.017Z",
+        "updated_at": "2023-08-09T02:05:50.462Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "cc0bfe24-47dd-406a-81f2-4616bcee2022",
+        "insight_name": "Implications of New Legislation",
+        "created_at": "2023-08-09T02:48:24.228Z",
+        "updated_at": "2023-08-09T04:14:37.896Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "394f21b9-93b1-4163-9aa9-938884a33a8a",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-08T18:50:49.472Z",
+        "updated_at": "2023-08-09T05:23:55.289Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8c9742e3-5227-4c4a-a423-1d99afad3b71",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-09T03:50:31.803Z",
+        "updated_at": "2023-08-09T06:38:04.318Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "898fb8e7-379c-41a4-bdd7-592a90ec50d8",
+        "document_name": "Employment Agreement",
+        "created_at": "2023-08-08T21:22:41.042Z",
+        "updated_at": "2023-08-09T03:43:42.270Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8df7de2-e1e4-4022-b8ea-94cd0d5780fc",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-09T07:49:10.842Z",
+        "updated_at": "2023-08-09T10:11:53.520Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "39152850-5ce8-4382-a163-09e43d8f62d2",
+        "document_name": "Memorandum of Understanding",
+        "created_at": "2023-08-09T06:09:22.137Z",
+        "updated_at": "2023-08-08T16:14:31.339Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f4ef5e3f-555c-4739-bbb7-5f54deeb9dae",
+        "email": "Clay_Lemke-Schneider@hotmail.com",
+        "firstName": "Lilian",
+        "lastName": "Welch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/485.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9b0cd63d-f1a9-46fb-a13a-fc870b4a5799",
+        "email": "Kay.Ebert31@hotmail.com",
+        "firstName": "Creola",
+        "lastName": "Zulauf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1095.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "50aec1e1-e2b4-4620-bfd4-e8f4e3bb9a32",
+        "email": "Wilford.Block41@gmail.com",
+        "firstName": "Virginie",
+        "lastName": "Feil",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/157.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f91839b9-bfc2-4fc8-8806-3b0ffa0b3d02",
+        "email": "Alfreda52@gmail.com",
+        "firstName": "Camryn",
+        "lastName": "Cronin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90156524",
+        "tenantId": null
+      },
+      {
+        "reference": "c75fc058-c570-4ba0-b811-9686f816d5d7",
+        "email": "Sydnie_Kunze@yahoo.com",
+        "firstName": "Lindsey",
+        "lastName": "Waelchi",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/996.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "18a0e412-0314-4ebf-a201-91d09d159388",
+        "research_topic": "Intellectual Property Law",
+        "created_at": "2023-08-09T09:12:26.306Z",
+        "updated_at": "2023-08-08T14:17:07.210Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0cbe634-8463-4993-a820-e6b0acdaf9af",
+        "research_topic": "Environmental Regulations",
+        "created_at": "2023-08-09T07:32:26.320Z",
+        "updated_at": "2023-08-09T03:00:22.697Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ac6b5a0-d895-4cb2-86fe-747cb6d82619",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-09T04:27:40.282Z",
+        "updated_at": "2023-08-08T13:53:06.480Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ca9f70fb-b3da-47d8-a055-598e6f2265d7",
+        "research_topic": "Data Privacy Laws",
+        "created_at": "2023-08-08T21:15:37.287Z",
+        "updated_at": "2023-08-08T23:35:34.765Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29764314-7b32-495e-90bf-dec224997529",
+        "research_topic": "Employment Law",
+        "created_at": "2023-08-08T14:45:25.187Z",
+        "updated_at": "2023-08-09T10:06:42.770Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "35462e66-bb07-40ed-ba28-9a9c5bcccd07",
+        "insight_name": "The Impact of Recent Supreme Court Rulings",
+        "created_at": "2023-08-09T04:07:59.532Z",
+        "updated_at": "2023-08-08T22:21:14.872Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "92c738f3-37e3-4284-b286-b275263041c8",
+        "insight_name": "Navigating International Trade Agreements",
+        "created_at": "2023-08-09T10:41:51.367Z",
+        "updated_at": "2023-08-08T19:35:35.313Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "55e5ab2c-9bac-4207-be3e-335f7a8eb784",
+        "insight_name": "Key Considerations for Mergers and Acquisitions",
+        "created_at": "2023-08-09T05:06:55.653Z",
+        "updated_at": "2023-08-09T05:50:07.585Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "931529cd-917f-4acd-a304-2f3554e351e5",
+        "insight_name": "Emerging Trends in Cybersecurity Regulations",
+        "created_at": "2023-08-08T14:10:21.791Z",
+        "updated_at": "2023-08-08T16:00:28.614Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "07ee8438-8f0e-48f2-863c-a0b4d9a076fc",
+        "insight_name": "Best Practices for Compliance with Anti-Money Laundering Laws",
+        "created_at": "2023-08-09T00:02:25.051Z",
+        "updated_at": "2023-08-08T21:12:53.787Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "3cff6c90-5ee9-459d-93d5-169b7f343bf7",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-08T21:53:16.389Z",
+        "updated_at": "2023-08-09T08:09:28.220Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a49d9593-ea7c-44f0-b77f-f87d1f7bbba2",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-09T06:42:28.951Z",
+        "updated_at": "2023-08-09T04:15:16.530Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a0368998-9af5-48da-b9b9-d0a5cf9208b3",
+        "document_name": "Employment Agreement",
+        "created_at": "2023-08-09T07:03:10.216Z",
+        "updated_at": "2023-08-09T01:09:19.996Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8e5ee377-6626-4332-b772-102dbec5f8a1",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-08T11:44:43.183Z",
+        "updated_at": "2023-08-08T13:46:26.205Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f997e2b-ba06-49c3-a6fb-7af50c8197a8",
+        "document_name": "Trademark Registration",
+        "created_at": "2023-08-08T23:39:36.723Z",
+        "updated_at": "2023-08-08T17:21:50.639Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "117601df-bfea-40fc-8a6a-3b3688715ae2",
+        "email": "Ashlynn46@hotmail.com",
+        "firstName": "Shane",
+        "lastName": "Rosenbaum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/409.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7312bf40-1578-4e6a-9d15-2d125f90a637",
+        "email": "Mossie_Littel@gmail.com",
+        "firstName": "Keshawn",
+        "lastName": "Dicki",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28744550",
+        "tenantId": null
+      },
+      {
+        "reference": "3e541b83-8f1f-4712-857f-ba1e6e559b42",
+        "email": "Adam.Gibson@hotmail.com",
+        "firstName": "Nicolas",
+        "lastName": "Hane",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/783.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ffe854c7-9f96-4434-ab31-b709dacb9ddf",
+        "email": "Dessie91@hotmail.com",
+        "firstName": "Valentina",
+        "lastName": "Wunsch",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58244370",
+        "tenantId": null
+      },
+      {
+        "reference": "e21880be-370c-4955-8121-db8591da7517",
+        "email": "Seth.Hansen@yahoo.com",
+        "firstName": "Wava",
+        "lastName": "Larkin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/989.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "4d89f451-f942-480a-bc58-f5305282211c",
+        "research_topic": "Intellectual Property Law",
+        "created_at": "2023-08-08T21:12:35.150Z",
+        "updated_at": "2023-08-09T03:32:26.724Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6ce7e97-ea7e-4003-955b-04d23826f134",
+        "research_topic": "Environmental Regulations",
+        "created_at": "2023-08-09T07:02:03.018Z",
+        "updated_at": "2023-08-08T10:57:09.222Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9454222-084c-4f1e-8706-5f6f34ce4982",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-09T02:40:26.765Z",
+        "updated_at": "2023-08-08T18:32:27.989Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a8cb3a11-1801-450a-99b3-ad1ccda10cfe",
+        "research_topic": "Data Privacy Laws",
+        "created_at": "2023-08-09T07:43:44.715Z",
+        "updated_at": "2023-08-08T23:54:17.356Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a89f507c-9b85-4e2e-9e18-2481373383da",
+        "research_topic": "Employment Law",
+        "created_at": "2023-08-08T21:20:14.132Z",
+        "updated_at": "2023-08-08T14:16:19.010Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "4f2b622d-4ed9-479b-a6a1-2884e30e790c",
+        "insight_name": "The Impact of Recent Supreme Court Rulings",
+        "created_at": "2023-08-09T00:18:30.335Z",
+        "updated_at": "2023-08-08T20:37:25.063Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "59e0eada-79c7-4899-9963-3ac42e096ba8",
+        "insight_name": "Navigating International Trade Agreements",
+        "created_at": "2023-08-09T09:47:44.846Z",
+        "updated_at": "2023-08-09T01:59:00.521Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "17c7f95e-61f1-4979-b6fb-0b88473415df",
+        "insight_name": "Key Considerations for Mergers and Acquisitions",
+        "created_at": "2023-08-09T03:39:03.691Z",
+        "updated_at": "2023-08-08T14:09:57.882Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "800d77cf-75ee-49d8-a1f9-94b90e63dc47",
+        "insight_name": "Emerging Trends in Cybersecurity Regulations",
+        "created_at": "2023-08-09T04:41:41.028Z",
+        "updated_at": "2023-08-08T14:41:57.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c39a9427-f61c-4064-b4d5-1b396fde02e2",
+        "insight_name": "Best Practices for Compliance with Anti-Money Laundering Laws",
+        "created_at": "2023-08-08T14:05:42.103Z",
+        "updated_at": "2023-08-09T02:27:14.154Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "2942c21a-c838-4be6-817f-94f2d1d84bd2",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-08T21:54:13.545Z",
+        "updated_at": "2023-08-09T01:32:22.236Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dd5fd1de-ab10-4b36-a5a0-fa264b6a81f5",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-09T06:37:05.158Z",
+        "updated_at": "2023-08-09T01:03:07.477Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "458d3021-d750-4e52-8b2c-580c588d235c",
+        "document_name": "Employment Agreement",
+        "created_at": "2023-08-08T15:24:56.731Z",
+        "updated_at": "2023-08-09T04:34:55.798Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06778f50-1530-4dcc-b5c8-043d2ba8a4ac",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-09T08:53:30.094Z",
+        "updated_at": "2023-08-08T21:37:15.728Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34f27aea-27ef-4085-9a86-c255f0cf538f",
+        "document_name": "Trademark Registration",
+        "created_at": "2023-08-09T10:37:39.839Z",
+        "updated_at": "2023-08-09T04:08:40.780Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ab6b019d-597b-490a-b700-ac58ab495f0e",
+        "email": "Hiram.Barton68@gmail.com",
+        "firstName": "Chance",
+        "lastName": "D'Amore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99045391",
+        "tenantId": null
+      },
+      {
+        "reference": "8e12dd55-51c6-4092-9510-422111cb3c98",
+        "email": "Elva.Romaguera53@gmail.com",
+        "firstName": "Ettie",
+        "lastName": "Stokes",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/862.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e137ceca-c5e1-4526-a531-20ebc3f37b9a",
+        "email": "Rolando.Runolfsson-Trantow@hotmail.com",
+        "firstName": "Alfredo",
+        "lastName": "Emard",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63130910",
+        "tenantId": null
+      },
+      {
+        "reference": "ac3c5e8b-cda3-4f19-bb30-4cab1eb6b51f",
+        "email": "Jovanny_Buckridge@gmail.com",
+        "firstName": "Jaylon",
+        "lastName": "Kerluke",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/147.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "49383a22-f3d5-4653-99d6-0e9a73a88ab4",
+        "email": "Ahmad.Weissnat99@gmail.com",
+        "firstName": "Gloria",
+        "lastName": "Huels",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20526058",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "5da6dac9-7ef1-48ec-af84-224f92d92a02",
+        "research_topic": "Intellectual Property Rights",
+        "created_at": "2023-08-09T02:48:07.784Z",
+        "updated_at": "2023-08-08T20:58:19.031Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0184017c-df1b-4e2e-930d-f2bb2d78181d",
+        "research_topic": "Data Privacy Regulations",
+        "created_at": "2023-08-08T19:55:13.790Z",
+        "updated_at": "2023-08-09T07:38:48.998Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce569613-a8c1-43bd-aa73-c8f5b477e7d0",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-08T17:19:06.700Z",
+        "updated_at": "2023-08-09T00:11:57.057Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2a26c548-0f6b-41eb-8a8a-b0afc2d610b7",
+        "research_topic": "Environmental Law",
+        "created_at": "2023-08-09T02:02:42.552Z",
+        "updated_at": "2023-08-08T23:37:39.706Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "dbf44623-0810-4351-84e6-a801cdc7ceb3",
+        "research_topic": "International Trade Agreements",
+        "created_at": "2023-08-09T00:44:35.487Z",
+        "updated_at": "2023-08-09T07:49:46.498Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "068dbed0-520c-46b1-bfcd-71ad5105ea01",
+        "insight_name": "Landmark Supreme Court Decision",
+        "created_at": "2023-08-09T06:48:13.701Z",
+        "updated_at": "2023-08-09T00:54:57.423Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "903a7984-acf7-4a9f-8fb5-16533cd4e2ad",
+        "insight_name": "Key Legal Precedent",
+        "created_at": "2023-08-09T06:46:26.689Z",
+        "updated_at": "2023-08-09T08:50:44.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fc35b7bf-51a9-421f-b93f-66200440288d",
+        "insight_name": "Emerging Legal Trend",
+        "created_at": "2023-08-08T17:55:18.678Z",
+        "updated_at": "2023-08-08T15:17:36.200Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2b2fefa-0187-4fd0-b444-814b108b486d",
+        "insight_name": "Industry-specific Regulation",
+        "created_at": "2023-08-09T03:59:22.835Z",
+        "updated_at": "2023-08-09T02:59:26.110Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ffcff169-ceb8-425f-a9fb-0c94329960a4",
+        "insight_name": "Legal Compliance Best Practices",
+        "created_at": "2023-08-08T15:16:46.999Z",
+        "updated_at": "2023-08-08T17:13:51.717Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "1b612195-b3a8-47ed-b742-5c83ba8aed31",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-08T18:57:11.708Z",
+        "updated_at": "2023-08-08T16:56:44.097Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "89b9bfba-a09a-42be-9676-6038600bef59",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-08T13:07:40.894Z",
+        "updated_at": "2023-08-09T08:39:33.925Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c6d4aa6b-0090-466f-8617-0601c68f745e",
+        "document_name": "Employment Agreement",
+        "created_at": "2023-08-08T23:06:08.887Z",
+        "updated_at": "2023-08-09T02:52:59.280Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0be73e86-09bb-4a9b-b223-72b0fe13c6ec",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-08T12:05:53.254Z",
+        "updated_at": "2023-08-08T14:17:10.714Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bd4d40f0-1b0e-41c6-bbcc-56628db7fd2f",
+        "document_name": "Memorandum of Understanding",
+        "created_at": "2023-08-09T06:42:30.884Z",
+        "updated_at": "2023-08-08T13:15:15.112Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "288013b9-47c2-44b5-b0fd-b3d99b51a491",
+        "email": "Desmond.Hettinger61@hotmail.com",
+        "firstName": "Edwina",
+        "lastName": "Lockman",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/96454130",
+        "tenantId": null
+      },
+      {
+        "reference": "a6e67630-65bb-4ee1-957d-1d8011e17fb7",
+        "email": "Edythe.Dooley@gmail.com",
+        "firstName": "Boris",
+        "lastName": "Schroeder",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/74178205",
+        "tenantId": null
+      },
+      {
+        "reference": "7f89943f-4fdd-4454-b18f-02612fe2a5f2",
+        "email": "Cooper_Stoltenberg@yahoo.com",
+        "firstName": "Meredith",
+        "lastName": "Renner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35757514",
+        "tenantId": null
+      },
+      {
+        "reference": "ea8b5563-c2ff-4c5b-a35a-2109217554b0",
+        "email": "Ashtyn33@gmail.com",
+        "firstName": "Cheyanne",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/999.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0f0427e6-1255-4817-a0c5-2de295579c09",
+        "email": "Francisca.Jakubowski50@yahoo.com",
+        "firstName": "Madalyn",
+        "lastName": "Heathcote",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/977.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "9cbd17c7-5407-476b-889d-d807675749cb",
+        "research_topic": "Intellectual Property Law",
+        "created_at": "2023-08-08T18:44:40.481Z",
+        "updated_at": "2023-08-09T08:34:11.608Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "539b6924-8209-4b46-9f28-29c8a9825cee",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-08T11:52:32.281Z",
+        "updated_at": "2023-08-08T14:05:08.209Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0c6b903-935d-4713-9f67-ba49fdf6b2fa",
+        "research_topic": "Environmental Law",
+        "created_at": "2023-08-08T11:20:17.227Z",
+        "updated_at": "2023-08-09T10:06:44.026Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "691c5cc2-fb41-4f51-8d69-1d872dc6ed45",
+        "research_topic": "Criminal Law",
+        "created_at": "2023-08-08T16:35:15.477Z",
+        "updated_at": "2023-08-08T20:21:39.370Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6e9cb1c9-54ff-4e14-97d6-d261dbff8d7e",
+        "research_topic": "Family Law",
+        "created_at": "2023-08-08T23:30:34.131Z",
+        "updated_at": "2023-08-09T07:47:09.187Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "2a883125-487e-41f6-8f73-762fcf855468",
+        "insight_name": "Landmark Supreme Court Case",
+        "created_at": "2023-08-08T22:21:12.615Z",
+        "updated_at": "2023-08-08T19:33:55.817Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "85a5b73e-da6b-477f-a83f-8d5cd9dde9b4",
+        "insight_name": "Recent Legal Precedent",
+        "created_at": "2023-08-08T17:53:55.157Z",
+        "updated_at": "2023-08-08T21:48:33.180Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "46bff073-0af6-4f4d-abdd-19bb138b8ad2",
+        "insight_name": "Legal Analysis Report",
+        "created_at": "2023-08-09T03:32:58.550Z",
+        "updated_at": "2023-08-08T20:01:01.169Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d0f0cef0-52b5-4090-9b91-1f611fc15c37",
+        "insight_name": "Expert Opinion Brief",
+        "created_at": "2023-08-08T17:52:02.761Z",
+        "updated_at": "2023-08-09T02:02:30.067Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "28fc2c30-0dc4-4eff-8d1c-f63553354f7d",
+        "insight_name": "Legal Strategy Recommendation",
+        "created_at": "2023-08-08T22:33:38.947Z",
+        "updated_at": "2023-08-09T04:48:55.917Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "4c1fe92e-fa4c-48c4-8661-d889ccca2309",
+        "document_name": "Contract Agreement",
+        "created_at": "2023-08-09T07:16:45.405Z",
+        "updated_at": "2023-08-08T18:48:29.110Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a72c5ec-461a-4d86-bafe-27c92324305c",
+        "document_name": "Legal Complaint",
+        "created_at": "2023-08-08T18:40:00.066Z",
+        "updated_at": "2023-08-09T03:40:35.675Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "597fc85c-944d-43fe-ae08-ac9776b777e3",
+        "document_name": "Court Order",
+        "created_at": "2023-08-09T10:24:57.279Z",
+        "updated_at": "2023-08-08T14:10:29.790Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "de45e9ce-869a-424b-9e57-87728f53b4d3",
+        "document_name": "Legal Opinion",
+        "created_at": "2023-08-09T00:26:12.840Z",
+        "updated_at": "2023-08-08T22:54:01.946Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f6a515ff-8c56-42bc-8887-bacdae781e5a",
+        "document_name": "Settlement Agreement",
+        "created_at": "2023-08-08T17:23:13.361Z",
+        "updated_at": "2023-08-09T07:00:19.579Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ccf9d085-03be-4bbb-bb52-ba85aac08d9c",
+        "email": "Darrick.Mraz@hotmail.com",
+        "firstName": "Amya",
+        "lastName": "Dach",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/110.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5569c72b-06fe-4d27-9cfe-452e13a0ee51",
+        "email": "Dawson.Stokes54@gmail.com",
+        "firstName": "Arnaldo",
+        "lastName": "Langosh",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1139.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "799aadf2-01cf-404f-b17c-4edc9c2de9f8",
+        "email": "Camylle_Sawayn@hotmail.com",
+        "firstName": "Jaylon",
+        "lastName": "Predovic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/527.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c8d22d23-161a-47bb-bb20-b29d3d7eb8b1",
+        "email": "Alana.Feeney@hotmail.com",
+        "firstName": "Una",
+        "lastName": "Larson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43766098",
+        "tenantId": null
+      },
+      {
+        "reference": "e9f78ac5-1a25-44f6-a5df-89dc327f40f7",
+        "email": "Garret.Nader71@hotmail.com",
+        "firstName": "Marley",
+        "lastName": "Sipes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92809741",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "5e78a800-5471-4b85-af93-ed71f648174f",
+        "research_topic": "Intellectual Property Rights",
+        "created_at": "2023-08-08T15:14:02.976Z",
+        "updated_at": "2023-08-09T09:32:45.586Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ce341c21-3e37-4535-817a-684914f5fd6e",
+        "research_topic": "Environmental Regulations",
+        "created_at": "2023-08-08T16:44:03.265Z",
+        "updated_at": "2023-08-09T02:04:51.740Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c9487710-6111-4ed9-b7ca-99720b2f472c",
+        "research_topic": "Data Privacy Laws",
+        "created_at": "2023-08-08T22:50:38.613Z",
+        "updated_at": "2023-08-08T21:10:49.575Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "720958f6-717f-45f0-8a1b-54dedeffd3d3",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-08T18:53:20.973Z",
+        "updated_at": "2023-08-09T01:58:37.174Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "06bba2c7-d19e-48e6-85ed-b6cbefc2e459",
+        "research_topic": "Employment Law",
+        "created_at": "2023-08-09T01:42:55.752Z",
+        "updated_at": "2023-08-08T13:46:40.683Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "48418f49-7aa4-41b8-8acf-d8b7f499bca7",
+        "insight_name": "The Impact of Brexit on International Trade",
+        "created_at": "2023-08-08T14:52:29.087Z",
+        "updated_at": "2023-08-08T23:15:17.828Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "decf9eef-147c-4424-ab26-8c443ab60b2c",
+        "insight_name": "Navigating Antitrust Regulations",
+        "created_at": "2023-08-09T06:39:18.361Z",
+        "updated_at": "2023-08-08T18:52:31.688Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "60d15a0e-6edb-407e-96ea-c77a933e4a86",
+        "insight_name": "Recent Developments in Patent Law",
+        "created_at": "2023-08-08T11:19:18.211Z",
+        "updated_at": "2023-08-09T01:05:16.622Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "29661a83-b495-4f0e-8038-d884f0e427fd",
+        "insight_name": "Understanding GDPR Compliance",
+        "created_at": "2023-08-08T10:52:18.468Z",
+        "updated_at": "2023-08-09T02:10:41.053Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8b916ef2-1d89-4148-9156-ece5c799de37",
+        "insight_name": "Key Considerations for Mergers and Acquisitions",
+        "created_at": "2023-08-09T06:17:10.434Z",
+        "updated_at": "2023-08-09T04:01:51.559Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "af6a45ae-f706-400b-bed9-845e92a2a2d2",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-08T13:01:16.256Z",
+        "updated_at": "2023-08-09T06:25:40.414Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e96a576b-1623-4110-9286-5cf7040b2222",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-08T19:53:44.156Z",
+        "updated_at": "2023-08-08T16:38:36.288Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9ec331bf-1cda-46b7-8dd7-8d3a8e5b3d6d",
+        "document_name": "Employment Agreement",
+        "created_at": "2023-08-08T20:39:22.993Z",
+        "updated_at": "2023-08-09T03:54:43.239Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "01a79b0d-b46e-4286-b695-5d35258a0917",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-08T18:17:16.495Z",
+        "updated_at": "2023-08-08T21:36:00.443Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2258db3a-74f3-41bd-8f49-1734f8018621",
+        "document_name": "Memorandum of Understanding",
+        "created_at": "2023-08-09T06:00:33.332Z",
+        "updated_at": "2023-08-09T02:22:40.961Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6f010101-7113-42b9-9d80-88f04746d8ba",
+        "email": "Alisha_Batz43@gmail.com",
+        "firstName": "Shea",
+        "lastName": "Rogahn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51841401",
+        "tenantId": null
+      },
+      {
+        "reference": "534ddc09-7b0e-4299-84fd-29cf31302fc4",
+        "email": "Dessie98@yahoo.com",
+        "firstName": "Darryl",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/331.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "39fc503c-1bad-4838-ac9c-8df20a297ec8",
+        "email": "Horacio76@yahoo.com",
+        "firstName": "Junior",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/590.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "aa396440-eb3e-41ed-a8d5-c9cf1318f84c",
+        "email": "Tabitha_Mosciski@hotmail.com",
+        "firstName": "Harmon",
+        "lastName": "Gorczany",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/572.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ea2402fe-b897-4284-b909-c79180fd4648",
+        "email": "Theodore_Rosenbaum@hotmail.com",
+        "firstName": "Electa",
+        "lastName": "Gottlieb",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/51845317",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "a180ab3f-b546-4400-bc47-cefb5c583854",
+        "research_topic": "Intellectual Property Rights",
+        "created_at": "2023-08-08T20:39:49.595Z",
+        "updated_at": "2023-08-08T13:07:00.642Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3343004d-e97a-4337-8646-f74fa6e6f6ef",
+        "research_topic": "Data Privacy Regulations",
+        "created_at": "2023-08-08T23:38:39.069Z",
+        "updated_at": "2023-08-08T21:44:39.120Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2b7194f8-b656-4975-82da-2f065b44b497",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-09T06:50:29.649Z",
+        "updated_at": "2023-08-09T09:54:07.225Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1f6f1c84-ad3b-46ca-9857-b17ae5df2bd4",
+        "research_topic": "Environmental Law",
+        "created_at": "2023-08-09T00:08:09.720Z",
+        "updated_at": "2023-08-08T13:07:56.883Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f04adf5e-a809-4fff-b185-5368511c614f",
+        "research_topic": "Employment Law",
+        "created_at": "2023-08-09T00:57:18.386Z",
+        "updated_at": "2023-08-09T10:21:01.622Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "00f0eafe-34a4-45fa-835a-ec08ca860753",
+        "insight_name": "The Impact of Artificial Intelligence on Legal Industry",
+        "created_at": "2023-08-08T15:35:42.527Z",
+        "updated_at": "2023-08-08T23:24:45.182Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "91b92319-ea4c-4eb9-bdc0-4dcea206f38b",
+        "insight_name": "Navigating Cross-Border Transactions",
+        "created_at": "2023-08-09T08:42:18.934Z",
+        "updated_at": "2023-08-08T18:29:43.517Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "8204481c-052f-41b8-b1b0-be21d7525375",
+        "insight_name": "Key Considerations for Mergers and Acquisitions",
+        "created_at": "2023-08-09T07:49:09.425Z",
+        "updated_at": "2023-08-08T11:14:21.027Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c0091d67-dc0f-4195-8b72-b95b715f9079",
+        "insight_name": "Understanding Patent Infringement Cases",
+        "created_at": "2023-08-08T20:56:13.466Z",
+        "updated_at": "2023-08-08T22:18:26.130Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "61f030cf-3e26-41e5-ba8d-fcb03f0fa58b",
+        "insight_name": "Challenges in International Arbitration",
+        "created_at": "2023-08-09T10:20:00.462Z",
+        "updated_at": "2023-08-08T21:31:39.562Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "3376d443-a49a-4b0b-a118-2a3184043a34",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-08T20:39:36.135Z",
+        "updated_at": "2023-08-09T02:10:14.040Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "df0f1cd1-aa89-4aaf-a957-1edb3d262f4f",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-09T02:34:27.447Z",
+        "updated_at": "2023-08-08T21:16:25.033Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3759296b-1bf8-4468-9c83-48a39989d9d7",
+        "document_name": "Employment Agreement",
+        "created_at": "2023-08-09T02:37:59.093Z",
+        "updated_at": "2023-08-08T20:24:14.112Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c33054bd-d5cc-4968-ba9b-fc2ed36bd3c9",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-09T07:30:56.246Z",
+        "updated_at": "2023-08-09T07:26:21.249Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fe02cd75-ebf5-4959-9a87-22c35e066376",
+        "document_name": "Memorandum of Understanding",
+        "created_at": "2023-08-08T13:28:09.243Z",
+        "updated_at": "2023-08-09T10:43:54.236Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f7a57ddb-5975-490c-87a2-1a366a1245cd",
+        "email": "Hayley_Volkman@yahoo.com",
+        "firstName": "Deonte",
+        "lastName": "Hahn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1221.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "84f1bc8c-3d5c-4e9a-8632-1b0cdb20f54e",
+        "email": "Raquel.Bauch75@gmail.com",
+        "firstName": "Wilhelm",
+        "lastName": "Feeney-Olson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/626.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "4aa42ac5-5bbc-499c-b936-0dfc63cf7380",
+        "email": "Grover62@yahoo.com",
+        "firstName": "Reggie",
+        "lastName": "Bins",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1205.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "09d1149a-7834-4108-aae0-b7aefaac1f5c",
+        "email": "Gerhard.Metz@gmail.com",
+        "firstName": "Raul",
+        "lastName": "Jones",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1247.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ada96c7a-8222-427b-9a2e-9d1449c68606",
+        "email": "Olaf.Farrell-Keeling@yahoo.com",
+        "firstName": "Ari",
+        "lastName": "Fritsch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/194.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "legal_research": [
+      {
+        "id": "0cdcbcc4-cdb4-43d2-ac2b-4104a79a05a4",
+        "research_topic": "Intellectual Property Rights",
+        "created_at": "2023-08-08T18:19:24.188Z",
+        "updated_at": "2023-08-08T15:17:25.382Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6962a65-a1c5-4cdd-acd4-045d13ce3a66",
+        "research_topic": "Environmental Regulations",
+        "created_at": "2023-08-09T00:41:00.079Z",
+        "updated_at": "2023-08-08T22:09:39.082Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "35b6728d-13d8-4ce6-a02f-730be402b2be",
+        "research_topic": "Data Privacy Laws",
+        "created_at": "2023-08-08T13:12:29.307Z",
+        "updated_at": "2023-08-09T06:39:40.775Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "016e4209-473c-4f00-b60e-c53c3bfdf7e6",
+        "research_topic": "Contract Law",
+        "created_at": "2023-08-08T11:27:35.552Z",
+        "updated_at": "2023-08-08T16:57:07.754Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5dd11eec-75ec-4d99-89ab-ae36dcbed797",
+        "research_topic": "Employment Law",
+        "created_at": "2023-08-09T06:24:06.300Z",
+        "updated_at": "2023-08-09T00:39:22.248Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_insight": [
+      {
+        "id": "4f7faf33-1a9f-4d64-abc8-a7ded3692b35",
+        "insight_name": "The Impact of Brexit on International Trade",
+        "created_at": "2023-08-09T10:39:48.424Z",
+        "updated_at": "2023-08-08T22:30:17.408Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f8eeeb89-1e7a-4b71-8e2f-94e9495df341",
+        "insight_name": "Navigating Antitrust Regulations",
+        "created_at": "2023-08-09T02:40:37.868Z",
+        "updated_at": "2023-08-09T05:31:21.699Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "18cbbbec-9423-46b9-9920-0591a858444e",
+        "insight_name": "Recent Developments in Patent Law",
+        "created_at": "2023-08-09T06:39:19.421Z",
+        "updated_at": "2023-08-09T03:36:04.290Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3ddb5528-d084-45a3-ba1c-5c07291a3304",
+        "insight_name": "Understanding GDPR Compliance",
+        "created_at": "2023-08-09T09:19:57.813Z",
+        "updated_at": "2023-08-09T09:26:22.237Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "b2d4aea5-f68a-4181-a2f0-d70526cc6fd7",
+        "insight_name": "Key Considerations for Mergers and Acquisitions",
+        "created_at": "2023-08-08T16:07:22.129Z",
+        "updated_at": "2023-08-09T00:13:48.408Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "legal_document": [
+      {
+        "id": "f898840f-c4a7-4ca9-bb7a-fe27d2e6bb78",
+        "document_name": "Terms and Conditions",
+        "created_at": "2023-08-09T04:01:13.846Z",
+        "updated_at": "2023-08-08T18:19:08.031Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c33006d3-5519-430f-8fac-c486ec82d40b",
+        "document_name": "Privacy Policy",
+        "created_at": "2023-08-08T14:50:12.441Z",
+        "updated_at": "2023-08-08T22:42:33.666Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1929ce9b-cb17-43a1-9208-5322c572cdff",
+        "document_name": "Employment Agreement",
+        "created_at": "2023-08-08T12:30:06.669Z",
+        "updated_at": "2023-08-08T19:49:40.992Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ac9e6ff8-3daa-4c2e-92f7-c189ae96e968",
+        "document_name": "Non-Disclosure Agreement",
+        "created_at": "2023-08-08T11:42:44.178Z",
+        "updated_at": "2023-08-08T11:42:19.020Z",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4106f68e-8fb4-49ba-8f9c-b3fc84d0a9ba",
+        "document_name": "Memorandum of Understanding",
+        "created_at": "2023-08-09T02:40:51.128Z",
+        "updated_at": "2023-08-09T02:34:34.016Z",
+        "user_id": "user_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c8307494-aaff-4361-b4e0-c77d66471945",
+        "email": "Lupe8@gmail.com",
+        "firstName": "Irma",
+        "lastName": "Bogisich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69951614",
+        "tenantId": null
+      },
+      {
+        "reference": "57972bcf-1e18-4380-8b0d-a76c6964418a",
+        "email": "Keagan_Brown57@gmail.com",
+        "firstName": "Khalil",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/762.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "af2889b9-2eab-4f09-b17b-700d5c8e00c6",
+        "email": "Lavada17@gmail.com",
+        "firstName": "Cordia",
+        "lastName": "Lehner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1235.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8782b4d9-3b58-4c3e-a240-08f3f698095b",
+        "email": "Tyshawn_Hegmann53@gmail.com",
+        "firstName": "Macie",
+        "lastName": "Bayer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88402631",
+        "tenantId": null
+      },
+      {
+        "reference": "309c8bb2-c63c-459d-8c30-50ccf8c9ae0b",
+        "email": "Bryana7@hotmail.com",
+        "firstName": "Elenora",
+        "lastName": "Schmidt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29651707",
+        "tenantId": null
+      }
+    ]
+  }
+]
